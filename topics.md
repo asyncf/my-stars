@@ -5,10 +5,7 @@
 
 ## Contents
 
-- [awesome](#awesome)
-- [awesome-list](#awesome-list)
 - [django](#django)
-- [docker](#docker)
 - [documentation](#documentation)
 - [flutter](#flutter)
 - [framework](#framework)
@@ -23,25 +20,11 @@
 - [open-source](#open-source)
 - [others](#others)
 - [python](#python)
-- [swiftui](#swiftui)
 - [web](#web)
-
-## awesome 
-
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-
-## awesome-list 
-
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## django 
 
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-
-## docker 
-
-- [maguowei/dockerfiles](https://github.com/maguowei/dockerfiles) - my dockerfiles
-- [maguowei/k8s-docker-desktop-for-mac](https://github.com/maguowei/k8s-docker-desktop-for-mac) - Docker Desktop for Mac 开启并使用 Kubernetes
 
 ## documentation 
 
@@ -74,9 +57,6 @@
 ## kubernetes 
 
 - [QingCloudAppcenter/QKE](https://github.com/QingCloudAppcenter/QKE) - KubeSphere is an open source container application platform by QingCloud based on Kubernetes.
-- [maguowei/k8s-docker-desktop-for-mac](https://github.com/maguowei/k8s-docker-desktop-for-mac) - Docker Desktop for Mac 开启并使用 Kubernetes
-- [maguowei/kube-stack](https://github.com/maguowei/kube-stack) - Kubernetes Stack for Development Environment
-- [maguowei/gotok8s](https://github.com/maguowei/gotok8s) - Goto Kubernetes
 
 ## language 
 
@@ -98,17 +78,11 @@
 
 - [gopherchina/meetup](https://github.com/gopherchina/meetup) - meetup in China
 - [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
-- [maguowei/aaas](https://github.com/maguowei/aaas) - Android as a service
-- [maguowei/iaas](https://github.com/maguowei/iaas) - issue as a service
 
 ## python 
 
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking
-
-## swiftui 
-
-- [maguowei/SwiftUIPullToRefresh](https://github.com/maguowei/SwiftUIPullToRefresh) - SwiftUI PullToRefresh
 
 ## web 
 
