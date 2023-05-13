@@ -5,27 +5,16 @@
 
 ## Contents
 
-- [Batchfile](#batchfile)
 - [Dart](#dart)
-- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [Others](#others)
 - [Python](#python)
 - [Shell](#shell)
-- [Swift](#swift)
 - [Vue](#vue)
-
-## Batchfile 
-
-- [maguowei/k8s-docker-desktop-for-mac](https://github.com/maguowei/k8s-docker-desktop-for-mac) - Docker Desktop for Mac 开启并使用 Kubernetes
 
 ## Dart 
 
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-
-## Dockerfile 
-
-- [maguowei/dockerfiles](https://github.com/maguowei/dockerfiles) - my dockerfiles
 
 ## Go 
 
@@ -35,24 +24,15 @@
 ## Others 
 
 - [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
-- [maguowei/aaas](https://github.com/maguowei/aaas) - Android as a service
-- [maguowei/kube-stack](https://github.com/maguowei/kube-stack) - Kubernetes Stack for Development Environment
-- [maguowei/gotok8s](https://github.com/maguowei/gotok8s) - Goto Kubernetes
 
 ## Python 
 
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking
-- [maguowei/iaas](https://github.com/maguowei/iaas) - issue as a service
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## Shell 
 
 - [QingCloudAppcenter/QKE](https://github.com/QingCloudAppcenter/QKE) - KubeSphere is an open source container application platform by QingCloud based on Kubernetes.
-
-## Swift 
-
-- [maguowei/SwiftUIPullToRefresh](https://github.com/maguowei/SwiftUIPullToRefresh) - SwiftUI PullToRefresh
 
 ## Vue 
 
