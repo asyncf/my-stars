@@ -18,6 +18,7 @@
 
 ## Go 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [gopherchina/meetup](https://github.com/gopherchina/meetup) - meetup in China
 
