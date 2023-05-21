@@ -10,6 +10,7 @@
 - [documentation](#documentation)
 - [flutter](#flutter)
 - [framework](#framework)
+- [frontend](#frontend)
 - [git](#git)
 - [go](#go)
 - [golang](#golang)
@@ -44,6 +45,10 @@
 ## framework 
 
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+
+## frontend 
+
+- [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 
 ## git 
 
