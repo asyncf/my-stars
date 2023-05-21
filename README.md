@@ -10,6 +10,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Shell](#shell)
+- [TypeScript](#typescript)
 - [Vue](#vue)
 
 ## Dart 
@@ -34,6 +35,10 @@
 ## Shell 
 
 - [QingCloudAppcenter/QKE](https://github.com/QingCloudAppcenter/QKE) - KubeSphere is an open source container application platform by QingCloud based on Kubernetes.
+
+## TypeScript 
+
+- [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 
 ## Vue 
 
