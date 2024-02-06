@@ -18,7 +18,6 @@
 - [git](#git)
 - [go](#go)
 - [golang](#golang)
-- [hacktoberfest](#hacktoberfest)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [markdown](#markdown)
@@ -85,10 +84,6 @@
 
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [golang/go](https://github.com/golang/go) - The Go programming language
-
-## hacktoberfest 
-
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 ## kubernetes 
 
