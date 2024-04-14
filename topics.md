@@ -27,6 +27,7 @@
 - [others](#others)
 - [python](#python)
 - [sql](#sql)
+- [stable-diffusion](#stable-diffusion)
 - [swiftui](#swiftui)
 - [web](#web)
 
@@ -128,6 +129,10 @@
 ## sql 
 
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+
+## stable-diffusion 
+
+- [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 
 ## swiftui 
 
