@@ -7,6 +7,7 @@
 
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [command-line](#command-line)
 - [database](#database)
 - [django](#django)
 - [docker](#docker)
@@ -39,6 +40,10 @@
 ## awesome-list 
 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+
+## command-line 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## database 
 
