@@ -12,7 +12,6 @@
 - [Others](#others)
 - [Python](#python)
 - [Shell](#shell)
-- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -37,7 +36,6 @@
 ## Others 
 
 - [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
-- [maguowei/aaas](https://github.com/maguowei/aaas) - Android as a service
 - [maguowei/kube-stack](https://github.com/maguowei/kube-stack) - Kubernetes Stack for Development Environment
 - [maguowei/gotok8s](https://github.com/maguowei/gotok8s) - Goto Kubernetes
 
@@ -51,10 +49,6 @@
 ## Shell 
 
 - [QingCloudAppcenter/QKE](https://github.com/QingCloudAppcenter/QKE) - KubeSphere is an open source container application platform by QingCloud based on Kubernetes.
-
-## Swift 
-
-- [maguowei/SwiftUIPullToRefresh](https://github.com/maguowei/SwiftUIPullToRefresh) - SwiftUI PullToRefresh
 
 ## TypeScript 
 
