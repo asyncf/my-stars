@@ -44,7 +44,7 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking
 - [maguowei/iaas](https://github.com/maguowei/iaas) - issue as a service
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 
 ## Shell 
 
