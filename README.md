@@ -32,10 +32,10 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [gopherchina/meetup](https://github.com/gopherchina/meetup) - meetup in China
+- [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 
 ## Others 
 
-- [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 - [maguowei/kube-stack](https://github.com/maguowei/kube-stack) - Kubernetes Stack for Development Environment
 - [maguowei/gotok8s](https://github.com/maguowei/gotok8s) - Goto Kubernetes
 
